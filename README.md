@@ -54,5 +54,5 @@ The dataset consists of **7,591 facial images** with associated age labels.
 ### 👤 Contact
 If you're interested in Deep Learning implementations or have questions about the model, let's connect!
 
-* **LinkedIn:** [Tu Nombre o Enlace a Perfil]
+* **LinkedIn:** [www.linkedin.com/in/fernando-garza-trevino]
 * **Email:** ferngarzau@gmail.com
