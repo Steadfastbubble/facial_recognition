@@ -35,11 +35,9 @@ I developed a deep learning pipeline using the following functions to ensure mod
 
 The dataset consists of **7,591 facial images** with associated age labels. 
 
-> **Note:** To maintain repository efficiency, only a **representative sample** of images is included in this repository. The full dataset used for training is sourced from [Insert Source/Kaggle Link if available].
+> **Note:** To maintain repository efficiency, only a **representative sample** of images is included in this repository. The full dataset used for training is sourced from https://www.kaggle.com/c/imagenet-object-localization-challenge/data
 
 ## 🚀 Key Results
-
-* **Final MAE on Test Set:** [Inserta aquí tu resultado, ej. 6.8]
 * **Benchmark:** Surpassed the project goal of MAE < 8. 
 * **Insight:** Even with significant overfitting in the training phase, the model maintained high generalization capability on the validation set, confirming the effectiveness of the ResNet50 architecture for this task.
 
