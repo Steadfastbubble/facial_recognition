@@ -48,7 +48,20 @@ The dataset consists of **7,591 facial images** with associated age labels.
 * Fine-tune the deeper layers of ResNet50 specifically for the facial feature dataset.
 
 ---
+**PLEASE NOTE**
+## 📁 Project Structure & Sample Data
+This repository includes a `dataset_sample` folder containing 15-40 representative images and a filtered `labels.csv`. 
 
+### Why is this here?
+- **Reproducibility:** You can run the Exploratory Data Analysis (EDA) and the model initialization immediately after cloning.
+- **Portability:** The notebook is configured to automatically detect if it's running on a local machine (using the sample) or on the original training server.
+
+### How to run it:
+1. Clone the repository.
+2. Ensure the folder structure is maintained:
+   - `/dataset_sample/labels.csv`
+   - `/dataset_sample/final_files/*.jpg`
+3. Run the notebook. It will detect the local path and use these files.
 ### 👤 Contact
 If you're interested in Deep Learning implementations or have questions about the model, let's connect!
 
